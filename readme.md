@@ -3,7 +3,7 @@ The Asset Management System Backend is the server-side component of a web applic
 
 ## Installation
 1. Clone the repository:
-git clone https://github.com/jeeva-sd/asset-management-API
+git clone https://github.com/jeeva-sd/asset-management-API.git
 
 2. Navigate to the project directory:
 cd asset-management-API
